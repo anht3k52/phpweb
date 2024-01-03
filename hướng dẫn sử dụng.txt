@@ -1,0 +1,4 @@
+TUANORI.VN
+- Sau khi up code xong, quý khách vui lòng truy cập vào tên miền, sẽ có phân để quý khách connect
+- Dữ liệu sẽ tự động import vô cơ sỡ dữ liệu tự động. Thay vì up theo cách thông thường
+- Ai bảo không có file .sql thì nó nằm ở đây ạ : install/data.sql
